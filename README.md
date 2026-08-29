@@ -16,11 +16,9 @@ Database Management
 Web Development
 Software Engineering
 📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=farhanaCodes&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanaCodes&theme=radical" alt="GitHub Streak" height="165"/> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanaCodes&layout=compact&theme=radical" alt="Top Languages" /> </p>
-📌 Pinned / Featured Projects
 
-(GitHub lets you pin repos separately, but you can also list your best ones here)
 
+I have done
 🔹 Mental Health Website with AI Chatbot — A web-based mental health platform featuring an AI chatbot, developed using HTML, CSS, and JavaScript.
 🔹 More projects coming soon... 🚀
 🏆 Achievements
