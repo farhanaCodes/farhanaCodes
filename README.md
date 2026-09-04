@@ -20,6 +20,11 @@ Software Engineering
 
 I have done
 🔹 Mental Health Website with AI Chatbot — A web-based mental health platform featuring an AI chatbot, developed using HTML, CSS, and JavaScript.
+
+## The Project link is:
+```
+https://github.com/farhanaCodes/SANO-Mental-Healthcare-AI
+```
 🔹 More projects coming soon... 🚀
 🏆 Achievements
 🎓 B.Tech in Computer Science & Engineering — Government College of Engineering and Leather Technology
